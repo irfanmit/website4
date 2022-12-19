@@ -5,7 +5,7 @@
 .main
 {
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0)50% ,rgba(0,0,0,0)50%),url(file:///C:/Users/Karan%20Kumar/OneDrive/Documents/c++%20cource/ram.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0)50% ,rgba(0,0,0,0)50%),url(ram.JPG);
     background-position: center;
     background-size: cover;
     height: 109vh;
